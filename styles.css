@@ -1,10 +1,21 @@
 .whatevas {
-  color: inherit;
+  color: lime;
   font-style: italic;
   width: 15%;
   float: left;
+  font-size: 24px;
+  background-color: black;
 }
 
 img {
   float: center;
+  padding-left: 60px;
+}
+
+.random {
+  color: purple;
+}
+
+p {
+  text-align: center;
 }
